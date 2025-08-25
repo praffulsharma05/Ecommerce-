@@ -80,7 +80,7 @@ const Login = ({ setToken }) => {
             type="submit"
             className="w-full py-2 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white font-semibold rounded-full shadow-[4px_4px_12px_rgba(0,0,0,0.2)] transform hover:scale-105 transition duration-300 ease-in-out"
           >
-            🚀 Login
+           Login
           </button>
         </form>
       </div>
