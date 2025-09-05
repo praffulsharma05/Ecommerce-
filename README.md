@@ -114,7 +114,9 @@ ecommerce-mern/
 <img width="1832" height="697" alt="Screenshot 2025-09-06 011330" src="https://github.com/user-attachments/assets/830aea8c-7a63-4fcf-8894-ec227d0b3e13" />
 
  <img width="1900" height="829" alt="Screenshot 2025-09-06 011553" src="https://github.com/user-attachments/assets/80eaca2a-db96-44bf-a319-1ea735109711" />
- ![Uploading Screenshot 2025-09-06 011246.png…]()
+ <img width="1894" height="890" alt="Screenshot 2025-09-06 011246" src="https://github.com/user-attachments/assets/d6fcf47c-39ad-4e53-a41d-1d33c9b27d4c" />
+
+<img width="1830" height="888" alt="Screenshot 2025-09-06 011217" src="https://github.com/user-attachments/assets/1eb586a2-a716-4622-ba49-258f53601635" />
 
 ---
 
