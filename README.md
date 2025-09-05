@@ -41,28 +41,7 @@ Admin users can manage products and view orders.
 - Stripe / Razorpay (if payment gateway integrated)
 - Cloudinary (for product image upload, optional)
 
----
-
-## 📂 Project Structure
-
-```
-
-ecommerce-mern/
-│── client/              # React frontend
-│   ├── src/
-│   ├── public/
-│── backend/             # Node.js + Express backend
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   ├── config/
-│── .env                 # Environment variables
-│── package.json
-│── README.md
-
-````
-
----
+ ```````
 
 ## ⚙️ Installation & Setup
 
