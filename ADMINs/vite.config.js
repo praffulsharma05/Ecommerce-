@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
         tailwindcss(),
   ],
-  server:{port : chic-rolypoly-38099e.netlify.app}
+  server:{port : https://ecommerce-admins.onrender.com}
 })
