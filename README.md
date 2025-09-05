@@ -86,6 +86,7 @@ Admin users can manage products and view orders.
 
 ## 📸 Screenshots
 
+
  <img width="1816" height="953" alt="Screenshot 2025-08-30 031348" src="https://github.com/user-attachments/assets/d167de39-82ca-4bca-8858-6943a2f1a82e" />
 <img width="1892" height="892" alt="Screenshot 2025-09-06 011349" src="https://github.com/user-attachments/assets/d7731dec-5158-4086-a658-22cd0baf067a" />
 <img width="1832" height="697" alt="Screenshot 2025-09-06 011330" src="https://github.com/user-attachments/assets/830aea8c-7a63-4fcf-8894-ec227d0b3e13" />
