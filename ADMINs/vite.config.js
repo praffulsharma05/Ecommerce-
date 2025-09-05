@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
         tailwindcss(),
   ],
-  server:{port : 5172}
+  server:{port : chic-rolypoly-38099e.netlify.app}
 })
