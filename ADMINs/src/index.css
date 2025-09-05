@@ -1,0 +1,22 @@
+ @import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+/* 
+@tailwind base;
+@tailwind components;
+ @tailwind utilities;
+ */
+
+ .active{
+  background-color: #ffebf5;
+  border-color: #C586A5;
+ }
+input,select,textarea{
+    border: 1px solid #c2c2c2;
+    outline-color: #C586A5;
+    border-radius: 4px;
+
+}
+ *{
+  font-family: Outfit;
+ }
