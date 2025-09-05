@@ -68,7 +68,7 @@ ecommerce-mern/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/ecommerce-mern.git
+   git clone :https://github.com/praffulsharma05/Ecommerce-.git
    cd ecommerce-mern
 ````
 
