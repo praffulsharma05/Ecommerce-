@@ -69,7 +69,7 @@ ecommerce-mern/
 1. **Clone the repo**
    ```bash
    git clone :https://github.com/praffulsharma05/Ecommerce-.git
-   cd ecommerce-mern
+   cd Ecommerce-
 ````
 
 2. **Backend Setup**
@@ -99,9 +99,7 @@ ecommerce-mern/
    cd ../client
    npm install
    npm run dev   # For Vite
-   # or
-   npm start     # For CRA
-   ```
+     ```
 
 ---
  
